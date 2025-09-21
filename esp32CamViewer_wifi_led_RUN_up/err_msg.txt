@@ -1,0 +1,12 @@
+コンソールの出力は以下のようです
+
+Initializing LEDC for GPIO2...
+ledc_timer_config for LED OK
+ledc_channel_config for LED OK
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.1.38' to connect
+E (13038) ledc: ledc_set_duty(725): LEDC is not initialized
+E (13039) ledc: ledc_update_duty(653): LEDC is not initialized
+E (19143) ledc: ledc_set_duty(725): LEDC is not initialized
+E (19143) ledc: ledc_update_duty(653): LEDC is not initialized
